@@ -1,0 +1,8 @@
+com\posts\entidades\Moderador.class
+com\posts\entidades\Usuario.class
+com\posts\utils\Conexão.class
+com\posts\entidades\Comentario.class
+com\posts\dao\daoPostagem.class
+com\posts\dao\daoComentarios.class
+com\posts\entidades\Post.class
+com\posts\dao\daoUsuario.class
